@@ -8,10 +8,15 @@ This repository is for showing how Git and GitHub work
 
 Sample website with plenty of files for demos
 
-#Introduction 
+## Introduction 
 
 A lot of lectures are already submmited 
 
-#Git & GitHub Training
+## Git & GitHub Training
 
 This is one of the best training coures for DevOps
+
+ADdding comparison git 
+
+## GitHub Contatn
+comparison with repo
