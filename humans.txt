@@ -14,4 +14,7 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr, Git, Mashine Learing, AWS,Google Cloud
+
+    jQuery, Modernizr, AJAX, 
+	Docker ,Jenkins, DevOps
+
