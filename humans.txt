@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name>Motasem<role>Alamleh<twitter>
+    motasem
+	motasemalamleh5000@gmail.com
+	DevOps Engineer
 
 # THANKS
 
