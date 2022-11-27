@@ -19,6 +19,8 @@ ADDING
 GIT 
 REBASE LECTURES
 
+We have done so much work to gethar
+
 
 ADdding comparison git 
 
