@@ -15,6 +15,10 @@ A lot of lectures are already submmited
 ## Git & GitHub Training
 
 This is one of the best training coures for DevOps
+ADDING
+GIT 
+REBASE LECTURES
+
 
 ADdding comparison git 
 
