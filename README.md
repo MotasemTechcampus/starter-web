@@ -18,7 +18,7 @@ This is one of the best training coures for DevOps
 DevOps.
 Adding git Rebase 
 
-We have done so much work to gethar
+we have done so much work to geather 
 
 
 ADdding comparison git 
