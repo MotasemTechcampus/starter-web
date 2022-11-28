@@ -11,6 +11,7 @@ Sample website with plenty of files for demos
 ## Introduction 
 
 A lot of lectures are already submmited 
+And a Lot off lectures are still coming on 
 
 ## Git & GitHub Training
 
