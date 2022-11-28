@@ -1,0 +1,2 @@
+adding new file in Git project 
+this file still not tracked by Git

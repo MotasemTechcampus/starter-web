@@ -6,6 +6,7 @@
 Doing some changes local 
 
 Hi, going to insert conflicts in my feature branch
+Adding important notes on GIT Stash
 
 
 # TEAM
