@@ -26,4 +26,5 @@ Adding important notes on GIT Stash
 
     jQuery, Modernizr, AJAX, 
 	Docker ,Jenkins, DevOps
+	AWS Soulution Architecter 
 
